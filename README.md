@@ -18,4 +18,8 @@
 <p>
   <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/e8c418474f8ab844e11d953ee4881410a0f6657bbca067bd9036bb30d48b6ea2.gif" width="45px"/><a href=""https://github.com/Myawka/css_html_tasks/tree/main/Tasks24-25">Tasks 24-25</a>
 </p>
+
+<p>
+  <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/e8c418474f8ab844e11d953ee4881410a0f6657bbca067bd9036bb30d48b6ea2.gif" width="45px"/><a href=""https://github.com/Myawka/css_html_tasks/tree/main/Task26">Task 26</a>
+</p>
  
