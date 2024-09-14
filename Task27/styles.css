@@ -1,31 +1,35 @@
-p {
-	color: rgb(60, 152, 199);
-}
-
 h1{
-    color: #491f5f;
-}
-
+    color:rgb(58, 173, 58);
+    }
+    
 h2{
-    color: #c914d5;
-}
-
+    color: rgb(45, 45, 151);
+    }
+    
 h3{
-    color: rgb(236, 8, 172)
-}
+    color: rgb(110, 32, 32);
+    }
 
 h4{
-    color: #2a8084
+    color: rgb(148, 28, 84);
 }
 
-ul{
-    color: rgb(206, 71, 154)
+h5{
+    color: rgb(182, 45, 0);
 }
 
 ol{
-    color: #99f
+    color: #1000fa;
 }
 
 b{
-    color:rgb(58, 45, 251)
+    color: #c600ab
+}
+
+ul{
+    color: #ae2150
+}
+   
+i{
+    color: #b031b9
 }
