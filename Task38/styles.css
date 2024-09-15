@@ -1,0 +1,36 @@
+.arial {
+    p{
+    font-family: Arial;}
+}
+.georgia {
+    p{
+    font-family: Georgia;}
+}
+.verdana {
+    p{
+    font-family: Verdana;}
+}
+.trebuchet_ms {
+    p{
+    font-family: "Trebuchet MS";}
+}
+.impact {
+    p{
+    font-family: Impact;}
+}
+.arial_black {
+    p{
+    font-family: "Arial Black";}
+}
+.comic_sans_me {
+    p{
+    font-family: "Comic Sans Me";}
+}
+.courier_new {p
+    {
+    font-family: "COurier New";}
+}
+.times_new_roman {
+    p{
+    font-family: "Times New Roman";}
+}
