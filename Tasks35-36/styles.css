@@ -1,0 +1,16 @@
+table{
+    width: 500px;
+    height: 300px;
+}
+
+td{
+    font-weight: bold;
+    text-align: center;
+}
+
+th{
+    font-weight: normal;
+}
+h2 {
+	font-style: italic;
+}

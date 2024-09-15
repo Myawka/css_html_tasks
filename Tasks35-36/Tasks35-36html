@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Document</title>
+</head>
+<body>
+
+    <h1>35#1</h1>
+    <table border="1">
+        <tr>
+            <th>Name</th>
+            <th>Surname</th>
+            <th>Salary</th>
+        </tr>
+        <tr>
+            <td>John</td>
+            <td>Smith</td>
+            <td>200$</td>
+        </tr>
+        <tr>
+            <td>Nick</td>
+            <td>Mayers</td>
+            <td>300$</td>
+        </tr>
+        <tr>
+            <td>Alex</td>
+            <td>Jonson</td>
+            <td>400$</td>
+        </tr>
+    </table>
+
+    <h1>36#1</h1>
+    <h2>Text written in italics using with styles.css</h2>
+</body>
+</html>
