@@ -1,0 +1,78 @@
+.task39{
+    p{
+        font-size: 30px;
+        line-height: 45px;
+        text-align: justify;
+    }
+}
+.task40{
+    p{
+        font-size: 30px;
+        line-height: 1.5;
+        text-align: justify;
+    }
+}
+
+.task41_1{
+    p{
+        font: 13px/20px "Times New Roman";
+    }
+}
+
+.task41_2{
+    p{
+        font: bold 40px Arial;
+        width: 300px;
+        color: red;
+    }
+}
+
+.task41_3{
+    p{
+        font: bold italic 40px/60px Arial;
+        text-indent: 50px;
+    }
+}
+
+.task42{
+    p{
+        
+        text-indent: 50px;
+        text-align: justify;
+        width: 400px;
+        
+    }
+}
+
+.task44 {
+    p {
+        text-decoration: underline;
+        font: 20px Arial
+    }
+}
+
+.task45{
+    p{
+        text-decoration: overline;
+        font: 20px "Times New Roman";
+        color:red;
+    }
+}
+
+.task46{
+    p{
+        text-decoration: line-through;
+        font: 20px "Times New Roman";
+        color: green;
+    }
+}
+
+.task47{
+    a{
+        text-decoration: none;
+    }
+    p{
+        color: #6bbe;
+        font-size: 40px;
+    }
+}
