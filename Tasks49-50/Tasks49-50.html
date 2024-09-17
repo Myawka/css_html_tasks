@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>49#1</h1>
+    <ul>
+        <li>text <a href="">link</a></li>
+        <li>text <a href="">link</a></li>
+        <li>text <a href="">link</a></li>
+        <li>text <a href=""><b>bold link</b>
+            </a></li> 
+    </ul>
+    <!--
+    В данном коде можно выделить следующие родительские связи:
+    тег ul - родитель для тега li, и дедушка для тегов a, b
+    тег li - потомок тега ul, а также родитель тегов a, b
+    тег a - потомок тегов ul, li, родитель тега b
+    тег b - потомок тегов ul, li, a
+    -->
+
+    <h1>49#2</h1>
+    <table>
+        <tr>
+            <td>cell 1</td>
+            <td>cell 2</td>
+            <td>cell 3</td>
+        </tr>
+        <tr>
+            <td>cell 4</td>
+            <td>cell 5</td>
+            <td>cell 6</td>
+        </tr>
+        <tr>
+            <td>cell 7</td>
+            <td>cell 8</td>
+            <td>cell 9</td>
+        </tr>
+    </table>
+    <!--
+    В данном коде можно выделить следующие родительские связи:
+    тег table - родитель для тегов tr и td
+    тег tr - потомок тега table, родитель тега td
+    тег td - потомок тегов tr, table.
+    -->
+
+    <h1>49#3</h1>
+    <p>
+        This is a paragraph with text
+        <i><b>bold italic</b></i>
+        <a href="">link <i>italic</i></a>.
+    </p>
+
+    <!--
+    Тег p является потомков для тегов i, a, b. 
+    Непосредственные потомки для тега p: i, a.
+       -->
+
+    <h1>49#4</h1>
+    <p>
+        <a href="">link <i><b>bold italic</b>
+            </i></a> 
+    </p>
+    <!--
+    Родители тега b: i, a, p.
+    Непосредственный родитель тега b: i
+    -->
+
+    <h1>50#1</h1>
+    <!--
+   Изучив код, скажите какой цвет будет иметь текст в теге b:
+    <p>
+        This is some <i>text</i> in paragraph.
+    </p>
+    p {
+        color: blue;
+    }
+    
+    ___________________________________
+     тег i будет иметь голубой цвет, т.к. наследует его от непосредственного родителя - тега p
+    -->
+
+    <h1>50#2</h1>
+    <!--Изучив код, скажите какой цвет будет иметь текст в теге b:
+    <p>
+        This is some <i>text</i> in paragraph.
+    </p>
+    p {
+        color: blue;
+    }
+    b {
+        color: red;
+    }
+    ______________________________________
+    Текст в теге b будет иметь красный цвет
+    -->
+
+    <h1>50#3</h1>
+    <!--
+        Изучив код, скажите какой цвет будет иметь текст в теге b:
+
+    <p>
+        This is some <i>text</i> in paragraph.
+    </p>
+    b {
+        color: red;
+    }
+    p {
+        color: blue;
+    }
+    ________________________________________
+    текст в теге b будет иметь красный цвет
+     -->
+
+     <h1>50#4</h1>
+     <!--
+     Изучив код, скажите какой цвет будет иметь текст в теге li:
+
+    <ul>
+        <li>text</li>
+        <li>text</li>
+        <li>text</li>
+    </ul>
+    ul {
+        color: blue;
+    }
+    _____________________________
+    текст в теге li будет иметь голубой цвет, т.к. наследует его от тега ul
+     -->
+
+     <h1>50#5</h1>
+     <!--
+     Изучив код, скажите какой цвет будет иметь текст в теге li:
+
+    <ul>
+        <li>text</li>
+        <li>text</li>
+        <li>text</li>
+    </ul>
+    ul {
+        color: blue;
+    }
+    li {
+        color: red;
+    }
+    _________________________________
+    текст в теге li будет иметь красный цвет
+     -->
+
+     <h1>50#6</h1>
+     <!--
+    Изучив код, скажите какой цвет будет иметь текст в теге i:
+
+    <ul>
+        <li>text <i>italic</i> text</li>
+        <li>text <i>italic</i> text</li>
+        <li>text <i>italic</i> text</li>
+    </ul>
+    ul {
+        color: blue;
+    }
+    li {
+        color: red;
+    }
+    i {
+        color: green;
+    } 
+    ________________________________________
+    текст в теге i будет иметь зеленый цвет
+     -->
+
+     <h1>50#7</h1>
+    <!--
+     Изучив код, скажите какой размер будет иметь текст в теге i:
+
+    <ul>
+        <li>text <i>italic</i> text</li>
+        <li>text <i>italic</i> text</li>
+        <li>text <i>italic</i> text</li>
+    </ul>
+    i {
+        font-size: 30px;
+    }
+    ul {
+        font-size: 20px;
+    }
+    li {
+        color: red;
+        font-weight: bold;
+    }
+    ______________________________________
+    текст в теге i будет иметь размер 30 пикселей
+    -->
+</body>
+</html>
