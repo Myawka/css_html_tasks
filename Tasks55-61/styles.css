@@ -1,0 +1,84 @@
+.odd{
+    color: red;
+}
+.eve{
+    color:green;
+}
+.eee{
+    color: red;
+}
+.xxx{
+    font-size:30px;
+}
+.t57_1_1{
+    color: red;
+}
+.t57_1_2{
+    color: green;
+}
+.t57_1_3{   
+    color:blue;
+}
+.t57_2_1{
+    color: red;
+}
+.t57_2_2{
+    color:green;
+}
+.eeee{
+    font-size: 20px;
+}
+.zzz{
+    font-size: 30 px;
+}
+.zzz, .eeee{
+    line-height: 1.5;
+    font-family: Arial;
+}
+.t58_2e{
+    font-size: 20px;
+}
+.t58_2z{
+    font-size: 30px;
+}
+.t58_2g{
+    font-size: 35px;
+}
+.t58_2e, .t58_2z, .t58_2g{
+    text-align:center;
+    font-family:Arial;
+}
+.header{
+    color:red;
+}
+h2.header{
+    font-size: 40px;
+}
+h3.header{
+    font-size: 30px;
+}
+.q i{
+    color:red;
+}
+.a .b{
+    color:rgb(122, 30, 202);
+    text-indent: 30px;
+}
+.book h2{
+    color:cadetblue;
+    text-indent: 30px;
+}
+.eeeee h2.bbbb{
+    color:red;
+}
+.meow h3.mur{
+    color:rgb(190, 85, 134);
+}
+.meoww p.murr{
+    color:chocolate;
+    text-decoration: underline;
+}
+.w .t .r{
+    color:blueviolet;
+    text-indent: 20px;
+}
