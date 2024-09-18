@@ -1,0 +1,20 @@
+.task53_1{
+    li i{
+        color:red;
+    }
+    p i{
+        color:green;
+    }
+}
+
+.task53_2{
+    p b i{
+        color:red;
+    }
+}
+
+.task54{
+    li > b{
+        color:red;
+    }
+}
