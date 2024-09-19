@@ -1,0 +1,67 @@
+p{
+    text-indent: 30px;
+    text-align: justify;
+}
+p.bbb{
+    color: red;
+}
+p .bb{
+    color:rgb(108, 185, 36);
+}
+.e p.b{
+    color:rgb(55, 66, 191);
+}
+.eeee p .bbbb{
+    color: red;
+}
+.success {
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
+.purple{
+    color:blueviolet;
+}
+.middle{
+    font-size: 25px;
+}
+.decoration{
+    text-decoration:overline
+}
+#elem1{
+    color:red;
+}
+#elem2{
+    color:green;
+}
+#elem3{
+    color:blue;
+}
+.text{
+    color:chocolate;
+}
+#block{
+    text-align: center;
+    text-decoration: underline;
+    color:green;
+}
+#elem8 h2{
+    color:rgb(54, 213, 81);
+}
+#elem9 .text{
+    color:rgb(0, 0, 255);
+}
+#elem10 p.text{
+    color:rgb(255, 0, 242);
+}
+#elem11 li.text{
+    font-family: Verdana;
+    color:chartreuse;
+}
