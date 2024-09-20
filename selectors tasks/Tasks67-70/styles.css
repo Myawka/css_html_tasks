@@ -1,0 +1,95 @@
+/*task 67#1*/
+.eee.zzz.ccc {
+    color: rgb(255, 0, 0);
+    font-family: Arial;}
+/*task 68#1*/
+.b.z{
+    color:green;
+    text-indent: 30px;
+    text-align: justify;
+    width: 300px;
+}
+/*task 68#2*/
+h2.bb.zz {
+	color: rgb(194, 10, 84);
+}    
+/*task68#3*/
+#elem.o{
+    color:rgb(5, 194, 59);
+}
+/*task68#4*/
+#elem.a.x{
+    color:red;
+    text-decoration: overline;
+    text-indent:20px;
+}
+/*task68#5*/
+h2#elem.w {
+	color: rgb(156, 28, 172);
+    font-style: italic;
+}
+/*task69#1*/
+h2.a {
+	color: red;
+    font-style: italic;
+}
+/*task69#2*/
+h2 .b {
+	color: orange;
+    font-style: italic;
+}
+/*task69#3*/
+.c.d {
+	color: yellow;
+    font-style: italic;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 10);
+}
+/*task69#4*/
+.e .f{
+	color: green;
+    font-style: italic;
+}
+/*task69#5*/
+.g.h.i{
+    color:rgb(0, 179, 255);
+    font-style: italic;
+}
+/*task69#6*/
+.j .k.l{
+    color:blue;
+    font-style: italic;
+}
+/*task69#7*/
+.m.n .o{
+    color:purple;
+    font-style: italic;
+}
+/*task69#8*/
+.p .q .r{
+    color:navy;
+    font-style: italic;
+}
+/*task69#9*/
+#elem.m{
+    color:crimson;
+    text-decoration-color: blue;
+    text-decoration-line:overline
+}
+/*task69#10*/
+#elem .l {
+	color: rgb(89, 93, 142);
+}
+/*task70#1*/
+#block1 h1, #block1 h2{
+    text-align: center;
+}
+/*task70#2*/
+#block2 h1, #block2 h2{
+    text-align: center;
+}
+#block2 h1{
+    font-size: 30px;
+}
+#block2 h2{
+    font-size: 20px;
+}
