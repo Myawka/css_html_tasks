@@ -1,0 +1,97 @@
+/*task 71#1*/
+#block h1, #block h2, #block h3{
+    text-align: center;
+}
+#block h2{
+    color:blue;
+}
+#block h3{
+    color:red;
+    font-size: 16px;
+}
+/*task 71#12*/
+#block1 h1.eee, #block1 h2.zzz{
+    text-align: center;
+}
+#block1 h1.eee{
+    font-size: 30px;
+}
+#block1 h2.zzz{
+    font-size: 20px;
+}
+/*task 71#3*/
+.xxx .kkk, .eee h2.zzz, #eee h2{
+    text-align: center;
+}
+/*task 71#4*/
+.eee h2.zzz, .xxx{
+    text-align: center;
+}
+/*task 72#1*/
+.a p{
+    color:red;
+}
+/*task 72#2*/
+.b h2{
+    color:rgb(0, 225, 0);
+}
+/*task 72#3*/
+#block p{
+    color:rgb(244, 72, 175);
+}
+/*task 72#4*/
+#block1 h2{
+    color:brown;
+}
+/*task 72#5*/
+.bbb{
+    color:chartreuse;
+}
+/*task 72#6*/
+#block3 .bbb{
+    color: #b206af;
+}
+/*task 72#7*/
+p.f{
+    color:rgb(85, 255, 0);
+}
+/*task 72#8*/
+h2.bbb{
+    color:blueviolet;
+}
+/*task 72#9*/
+#block6 p.bbb{
+    color:rgb(255, 0, 0);
+}
+/*task 72#10*/
+.bbb, .x{
+    color:#5d00ff;
+}
+/*task 72#11*/
+p.bbb, h2.x{
+    color:red;
+}
+/*task 72#12*/
+#block7 p.bbb, #block7 p.x{
+    color:aquamarine;
+}
+/*task 72#13*/
+.fff{
+    color:chartreuse;
+}
+/*task 72#14*/
+.ff p{
+    color:red;
+}
+/*task 72#15*/
+p.fff{
+    color:hotpink;
+}
+/*task 72#16*/
+.f .b{
+    color:red;
+}
+/*task 72#17*/
+.ff h2.m{
+    color:purple;
+}
