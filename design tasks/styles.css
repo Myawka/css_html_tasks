@@ -44,3 +44,24 @@
     width: 300px;
     height: 200px;
 }
+/*task97#1-4*/
+#elem97_1{
+    border: 1px solid red;
+    width: 300px;
+    height: 200px;
+}
+#elem97_2{
+    border: 1px dotted blue;
+    width: 300px;
+    height: 200px;
+}
+#elem97_3{
+    border: 3px dashed green;
+    width: 300px;
+    height: 200px;
+}
+#elem97_4{
+    border: 5px double orange;
+    width: 300px;
+    height: 200px;
+}
