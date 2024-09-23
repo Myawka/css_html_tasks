@@ -103,3 +103,24 @@
     border-radius: 100px;
     border: solid green 1px;
 }
+/*task103#1*/
+#elem103_1{
+    width: 200px;
+    height: 200px;
+    border:1px green solid;
+    border-radius:10px 20px 30px 45px;
+}
+/*task104#1*/
+#elem104_1{
+    width: 200px;
+    height: 200px;
+    border:1px green solid;
+    border-radius:10px 40px;
+}
+/*task104#1*/
+#elem104_1{
+    width: 200px;
+    height: 200px;
+    border:1px green solid;
+    border-radius:10px 30px 20px;
+}
