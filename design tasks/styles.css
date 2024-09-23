@@ -82,3 +82,24 @@
     border-bottom: 1px solid blue;;
     border-right: 3px dotted green;
 }
+/*task99#1*/
+#elem99_1{
+    width: 200px;
+    height: 200px;
+    border:1px green solid;
+    border-radius: 20px;
+}
+/*task100#1*/
+#elem100_1{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(131, 211, 168);
+    border-radius: 20px;
+}
+/*task101#1*/
+#elem101_1{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border: solid green 1px;
+}
