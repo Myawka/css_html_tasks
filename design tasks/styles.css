@@ -117,10 +117,17 @@
     border:1px green solid;
     border-radius:10px 40px;
 }
-/*task104#1*/
-#elem104_1{
+/*task105#1*/
+#elem105_1{
     width: 200px;
     height: 200px;
     border:1px green solid;
     border-radius:10px 30px 20px;
+}
+/*task107#1*/
+#elem107_1{
+    width: 100px;
+    height: 100px;
+    border:1px green solid;
+    border-radius:50%;
 }
