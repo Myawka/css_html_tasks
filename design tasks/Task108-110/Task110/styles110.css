@@ -1,0 +1,41 @@
+#task1{
+    background-position: left center;
+	background-image: url("cat.jpg");
+	background-repeat: no-repeat;
+    background-size: 200px 200px;
+    width: 300px;
+	height: 300px;
+}
+#task2{
+    background-attachment: fixed;
+    background-image: url("1.jpg");
+    background-size: 1800px 900px;
+}
+#task2 p{
+    width: 900px;
+	margin: 0 auto;
+	text-align: justify;
+	font-weight: bold;
+	font: 20px italic;
+    color:rgb(221, 223, 146);
+    text-indent: 30px;
+    
+}
+#task3{
+    
+    background-color: rgb(236, 64, 159);
+    background-clip: padding-box;
+    border: 10px dotted rgb(57, 154, 183);
+    padding: 30px;
+    width: 250px;
+    height: 150px;
+
+}
+#task4{
+    background-origin: border-box;
+	background-image: url("cat.jpg");
+	border: 11px dashed rgb(0, 0, 0);
+	padding: 30px;
+	width: 650px;
+	height: 520px;
+}

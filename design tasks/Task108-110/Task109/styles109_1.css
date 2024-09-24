@@ -1,0 +1,8 @@
+body{
+    background-image: url('b.jpg');
+    background-repeat: repeat-y;
+    background-size: 90px;
+}
+h1{
+    color:aliceblue;
+}
