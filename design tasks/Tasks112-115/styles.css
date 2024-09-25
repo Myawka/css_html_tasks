@@ -7,3 +7,12 @@
 .task115 ul{
     list-style-type: none;
 }
+.task117 ol {
+	list-style-type: lower-roman;
+}
+.task118 ol {
+	list-style-type: upper-roman;
+}
+.task119 ol{
+    list-style-type: lower-alpha;
+}
