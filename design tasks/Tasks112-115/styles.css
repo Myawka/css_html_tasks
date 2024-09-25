@@ -16,3 +16,12 @@
 .task119 ol{
     list-style-type: lower-alpha;
 }
+.task120 ol{
+    list-style-type: upper-alpha;
+}
+.task121 ol{
+    list-style-type: lower-greek;
+}
+.task122 ol{
+    list-style-type: decimal-leading-zero;
+}
