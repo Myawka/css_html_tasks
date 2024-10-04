@@ -12,5 +12,28 @@
     border:1px solid green;
 }
 .task124_2p{
-
+    width:170px;
+    border:1px solid red;
+}
+.task124_2c{
+    margin-top:    37px; 
+	margin-right:  20px; 
+	margin-bottom: 37px;
+	margin-left:   20px; 
+	
+    height: 150px;
+    border:1px solid green;
+}
+.task124_3p{
+    width:170px;
+    border:1px solid red;
+}
+.task124_3c{
+    margin-top:    15px; 
+	margin-right:  60px; 
+	margin-bottom: 15px;
+	margin-left:   60px; 
+	
+    height: 100px;
+    border:1px solid green;
 }
