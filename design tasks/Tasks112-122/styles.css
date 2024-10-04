@@ -25,27 +25,3 @@
 .task122 ol{
     list-style-type: decimal-leading-zero;
 }
-.task123_1_1{
-    border: 1px blue dashed;
-    width: 400px;
-}
-.task123_1_2{
-    border:1px orange solid;
-    height: 320px;
-    margin:45px;
-    
-}
-.task123_2_1{
-    border: 1px blue dashed;
-    width: 300px;
-}
-.task123_2_2{
-    border:1px green dashed;
-    height:200px;
-    margin:20px;
-}
-.task123_2_3{
-    border:1px red solid;
-    height:150px;
-    margin:20px;
-}
