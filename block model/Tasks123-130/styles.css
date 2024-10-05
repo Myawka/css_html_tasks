@@ -138,4 +138,23 @@
     padding-right: 30px;
     border: 1px solid red;
     width: 200px;
+    text-align: justify;
+}
+.task131_1{
+    padding: 5px 20px 25px 30px;
+    width: 300px;
+    border: 1px red solid;
+    text-align: justify;
+}
+.task131_2{
+    padding: 50px 30px;
+    border: 1px solid red;
+    text-align: justify;
+    width: 300px;
+}
+.task131_3{
+    padding: 10px 20px 30px;
+    border: 1px solid red;
+    text-align: justify;
+    width: 300px;
 }
