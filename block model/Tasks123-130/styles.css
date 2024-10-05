@@ -111,3 +111,23 @@
     height: 50px;
     border: 1px dashed blue;
 }
+.task129_1{
+    text-align: justify;
+    padding: 30px;
+    width: 200px;
+    border: 1px red solid;
+}
+.task129_2_1{
+    text-align: justify;
+    padding: 30px;
+    width: 500px;
+    border: 1px green solid;
+    margin-bottom: 30px;
+}
+.task129_2_2{
+    text-align: justify;
+    padding: 30px;
+    width:300px;
+    border: 1px red solid;
+    margin-left: 50px;
+}
