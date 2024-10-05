@@ -131,3 +131,11 @@
     border: 1px red solid;
     margin-left: 50px;
 }
+.task130{
+    padding-top:50px;
+    padding-bottom: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: 1px solid red;
+    width: 200px;
+}
