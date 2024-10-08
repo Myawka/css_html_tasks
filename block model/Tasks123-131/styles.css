@@ -173,3 +173,18 @@
         border: 13px solid rgb(101, 32, 47); 
         box-sizing: border-box;
 }
+.task147 p{
+    display: inline;
+    height:50px;
+    width:300px;
+	border: 3px solid rgb(52, 16, 91);
+	margin-bottom: 40px;
+}
+.task147 a{
+    display: block;
+    width: 200px;
+	height: 50px;
+    text-align: center;
+	border: 1px dashed rgb(61, 162, 95);
+	margin-top: 10px;
+}
