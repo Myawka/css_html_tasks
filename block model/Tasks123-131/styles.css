@@ -158,3 +158,18 @@
     text-align: justify;
     width: 300px;
 }
+.task135_1{
+        width: 100px;
+        height: 100px;
+        background: #b85252;
+        margin-bottom: 20px;
+    }
+    
+.task135_2{
+        width: 100px;
+        height: 100px;
+        background: #b85252;
+        padding: 25px; 
+        border: 13px solid rgb(101, 32, 47); 
+        box-sizing: border-box;
+}
