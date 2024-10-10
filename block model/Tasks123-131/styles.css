@@ -194,3 +194,30 @@
 	height: 100px;
 	border: 1px solid rgb(0, 255, 89);
 }
+.parent153{
+    display: block;
+    border: 1px solid red;
+}
+.child1{
+    height: 100px;
+    width: 100px;
+    border: 1px solid green;
+    margin: 10px auto;
+}
+.child2{
+    height: 100px;
+    width: 200px;
+    border: 1px solid green;
+    margin: 10px auto;
+}
+.child3{
+    height: 100px;
+    width: 300px;
+    border: 1px solid green;
+    margin: 10px auto;
+}
+.parent158{
+    padding: 10px;
+	border: 1px solid red;
+    text-align: center;
+}
