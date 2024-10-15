@@ -79,3 +79,14 @@
 	border: 1px solid green;
     text-align: center; 
 }
+.parent163{
+	display: flex;
+	border: red 1px solid;
+	height:300px;
+}
+.child163{
+	border: green 1px solid;
+	width: 100px;
+	height:50px;
+	margin-bottom: 20px;
+}
