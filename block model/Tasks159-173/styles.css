@@ -90,3 +90,12 @@
 	height:50px;
 	margin-bottom: 20px;
 }
+.parent164{
+	display: flex;
+	border: red 1px solid;
+}
+.child164{
+	border: green 1px solid;
+	width: 120px;
+	height:90px;
+}
