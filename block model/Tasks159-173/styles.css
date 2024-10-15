@@ -93,9 +93,19 @@
 .parent164{
 	display: flex;
 	border: red 1px solid;
+	width: 900px;
 }
 .child164{
 	border: green 1px solid;
 	width: 120px;
 	height:90px;
+}
+.parent165	{
+	display: flex;
+	border: 1px solid red;
+}
+.child165 {
+	width: 120px;
+	height: 70px;
+	border: 1px solid green;
 }
