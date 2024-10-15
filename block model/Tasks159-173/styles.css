@@ -109,3 +109,12 @@
 	height: 70px;
 	border: 1px solid green;
 }
+.parent166	{
+	display: inline-flex;
+	border: 1px solid red;
+}
+.child166 {
+	width: 100px;
+	height: 60px;
+	border: 1px solid green;
+}
