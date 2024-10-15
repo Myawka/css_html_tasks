@@ -138,3 +138,15 @@
 	height: 60px;
 	border: 1px solid green;
 }
+.parent170 {
+	display: flex;
+	justify-content: center;
+	height:400px;
+	width:900px;
+	border:1px red solid;
+}
+.child170 {
+	width: 120px;
+	height: 60px;
+	border: 1px solid green;
+}
