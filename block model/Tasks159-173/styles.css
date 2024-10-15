@@ -150,3 +150,27 @@
 	height: 60px;
 	border: 1px solid green;
 }
+.parent171 {
+	display: flex;
+	justify-content: space-between;
+	height:200px;
+	width:900px;
+	border:1px red solid;
+}
+.child171 {
+	width: 120px;
+	height: 60px;
+	border: 1px solid green;
+}
+.parent172 {
+	display: flex;
+	justify-content: space-around;
+	height:200px;
+	width:900px;
+	border:1px red solid;
+}
+.child172 {
+	width: 120px;
+	height: 60px;
+	border: 1px solid green;
+}
