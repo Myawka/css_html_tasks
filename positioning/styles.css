@@ -1,0 +1,23 @@
+.task177_1r{
+    border:1px solid red;
+    height: 50px;
+    width: 50px;
+}
+.task177_1b{
+    position:absolute;
+    top: 140px;
+    left: 80px;
+
+    border:1px solid blue;
+    height: 50px;
+    width: 50px;
+}
+.task177_1g{
+    position:absolute;
+    top: 210px;
+    left: 160px;
+
+    border:1px solid green;
+    height: 50px;
+    width: 50px;
+}
