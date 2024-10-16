@@ -1,0 +1,27 @@
+#task178r {
+    position: relative;
+    top:100px;
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #FF8888;
+}
+#task178b{
+    position: relative;
+    top: 50px;
+    left:50px;
+
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #7E89EB;
+}
+#task178g {
+    position: relative;
+    left:100px;
+
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #4DEE99;
+}
