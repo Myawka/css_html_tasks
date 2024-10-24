@@ -3,14 +3,26 @@
 	width: 500px;
 	height: 300px;
 	margin: 0 auto;
-	border: 1px solid green;
+	border: 1px solid rgb(143, 188, 143);
+    background-color: rgb(54, 140, 54);
 }
 #child1 {
 	position: absolute;
-	top: 70px;
-	left: 80px;
+	top: 50px;
+	left: 50px;
 	
 	width: 90px;
 	height: 90px;
-	border: 1px solid red;
+	border: 1px solid white;
+    background-color: aliceblue;
+}
+#child2 {
+	position: absolute;
+	bottom: 50px;
+	right: 50px;
+	
+	width: 90px;
+	height: 90px;
+	border: 1px solid white;
+    background-color: aliceblue;
 }
