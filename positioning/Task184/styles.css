@@ -1,0 +1,31 @@
+#parent{
+    position: relative;
+    width: 350px;
+    height:800px;
+    margin: 0 auto;
+    border: 1px solid green;
+}
+
+#child1 {
+    left: -150px;
+}
+
+#child2 {
+    right: -150px;
+}
+
+#child1, #child2{
+    position: absolute;
+    top: 0;
+
+    width: 30px;
+    height: 30px;
+    border: 1px solid red;
+}
+#content p{
+	margin: 0 auto;
+	width: 300px;
+	text-align: justify;
+	font: 16px;
+    text-indent: 30px;
+}
