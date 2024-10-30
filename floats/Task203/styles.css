@@ -1,0 +1,24 @@
+#parent1, #parent2 {
+    padding: 20px;
+    border: 1px solid black;
+}
+
+#child1 {
+    float: left;
+}
+
+#child2 {
+    float: right;
+}
+
+#child1, #child2{
+    width: 100px;
+    height: 50px;
+    margin: 0 10px;
+    text-align: center;
+    border: 1px solid green;
+}
+
+.clearfix {
+    clear: both;
+}
