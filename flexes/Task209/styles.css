@@ -1,0 +1,37 @@
+.parent1, .parent2, .parent3, .parent4, .parent5, .parent208_2, .parent208_3, .parent208_4, .parent208_5{
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+
+.parent1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;}
+
+.parent2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;}
+
+.parent3 {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-start;}
+
+.parent4 {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;}
+
+.parent5 {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-end;}
+
+.child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
