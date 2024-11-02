@@ -1,0 +1,40 @@
+.parent1, .parent2, .parent3{
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+
+.parent1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center ;
+    align-items: stretch;}
+    
+.parent2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center ;
+    align-items: stretch;}
+    
+.parent3{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between ;
+    align-items: stretch ;}
+
+.child1{
+    width: 120px;
+    border: 1px solid green;
+}
+    
+.child2{
+    height: 40px;
+    border: 1px solid green;
+}
+    
+.child3{
+    height: 40px;
+    border: 1px solid green;
+}
+ 
