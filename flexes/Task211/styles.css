@@ -1,0 +1,49 @@
+.parent1, .parent2, .parent3, .parent4, .parent5, .parent6{
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+
+.parent1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;}
+
+.parent2{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center ;
+    align-items: center;}
+
+.parent3{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end ;
+    align-items: center;}
+
+.parent4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;}
+
+.parent5{
+    display: flex;
+    flex-direction: column;
+    justify-content: center ;
+    align-items:center;}
+
+.parent6{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items:  center;
+}
+
+.child {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
