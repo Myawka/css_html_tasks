@@ -1,0 +1,29 @@
+.parent1, .parent2 {
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid rgb(93, 77, 14);
+}
+
+.parent1{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;}
+
+.parent2{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center ;
+    align-items: center;}
+
+.elem1{
+    order: -1;
+	border: 3px solid rgb(130, 22, 58); 
+
+}
+
+.elem2{
+    order: -1;
+	border: 3px solid rgb(130, 22, 58); 
+}
