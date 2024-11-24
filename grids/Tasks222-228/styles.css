@@ -1,0 +1,212 @@
+#parent222_1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border: 3px solid rgb(19, 150, 49);
+    padding: 10px;
+    width: 600px;
+}
+#parent222_1 > div {
+    padding: 10px;
+    border: 2px solid orange;
+    box-sizing: border-box;
+    background-color: #f8de9b;
+    text-align: center;
+}
+
+#parent222_2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    border: 3px solid rgb(19, 150, 49);
+    padding: 10px;
+    width: 600px;
+}
+#parent222_2 > div {
+    padding: 10px;
+    border: 2px solid orange;
+    box-sizing: border-box;
+    background-color: #f8de9b;
+    text-align: center;
+}
+
+#parent222_3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 2fr;
+    border: 3px solid rgb(19, 150, 49);
+    padding: 10px;
+    width: 600px;
+}
+#parent222_3 > div {
+    padding: 10px;
+    border: 2px solid orange;
+    box-sizing: border-box;
+    background-color: #f8de9b;
+    text-align: center;
+}
+
+#parent223_1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1.5fr;
+    border: 2px solid darkslateblue;
+    padding: 10px;
+    width: 600px;
+}
+#parent223_1 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+    background-color: rgb(19, 150, 49);
+    text-align: center;
+}
+
+#parent223_2 {
+    display: grid;
+    grid-template-columns: 1fr 1.5fr 2.5fr;
+    border: 2px solid darkslateblue;
+    padding: 10px;
+    width: 600px;
+}
+#parent223_2 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+    background-color: rgb(19, 150, 49);
+    text-align: center;
+}
+
+#parent224_1 {
+    display: grid;
+    grid-template-columns: 100px 1fr 1fr;
+    border: 2px solid darkgreen;
+    padding: 10px;
+    width: 600px;
+}
+#parent224_1 > div {
+    padding: 10px;
+    border: 1px solid rgb(255, 0, 0);
+    background-color: rgb(19, 150, 49);
+    text-align: center;
+}
+
+#parent224_2 {
+    display: grid;
+    grid-template-columns: 100px 1fr 1.5fr 100px;
+    border: 2px solid darkgreen;
+    padding: 10px;
+    width: 600px;
+}
+#parent224_2 > div {
+    padding: 10px;
+    border: 1px solid rgb(255, 0, 0);
+    background-color: rgb(19, 150, 49);
+    text-align: center;
+}
+
+#parent225_1 {
+    display: grid;
+    grid-template-columns: 50% 1fr 1fr;
+    border: 2px solid olive;
+    padding: 10px;
+    width: 600px;
+}
+#parent225_1 > div {
+    padding: 10px;
+    border: 1px solid goldenrod;
+    background-color: rgb(248, 236, 171);
+    text-align: center;
+}
+
+#parent225_2 {
+    display: grid;
+    grid-template-columns: 100px 20% 0.5fr 1fr 2fr;
+    border: 2px solid olive;
+    padding: 10px;
+    width: 600px;
+}
+#parent225_2 > div {
+    padding: 10px;
+    border: 1px solid goldenrod;
+    background-color: rgb(248, 236, 171);
+    text-align: center;
+}
+
+#parent226_1 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    border: 2px solid rgb(217, 110, 194);
+    padding: 10px;
+    width: 600px;
+}
+#parent226_1 > div {
+    padding: 10px;
+    border: 1px solid rgb(141, 197, 224);
+    background-color: rgb(227, 210, 236);
+    text-align: center;
+}
+
+#parent226_2 {
+    display: grid;
+    grid-template-columns: repeat(4, 100px) repeat(3, 2fr);
+    border: 2px solid rgb(164, 51, 51);
+    padding: 10px;
+    width: 600px;
+}
+#parent226_2 > div {
+    padding: 10px;
+    border: 1px solid rgb(141, 197, 224);
+    background-color: rgb(227, 210, 236);
+    text-align: center;
+}
+
+#parent226_3 {
+    display: grid;
+    grid-template-columns: repeat(2, 100px) repeat(3, 200px) 1fr repeat(2, 10%);
+    border: 2px solid rgb(164, 51, 51);
+    padding: 10px;
+    width: 1300px;
+}
+#parent226_3 > div {
+    padding: 10px;
+    border: 1px solid rgb(141, 197, 224);
+    background-color: rgb(164, 51, 51);
+    text-align: center;
+}
+
+#parent227_1 {
+    display: grid;
+    grid-template-columns: 200px auto;
+    border: 2px solid rgb(164, 51, 51);
+    padding: 10px;
+    width: 600px;
+}
+#parent227_1 > div {
+    padding: 10px;
+    border: 1px solid violet;
+    background-color: rgb(164, 51, 51);
+    text-align: center;
+}
+
+#parent227_2 {
+    display: grid;
+    grid-template-columns: 100px 150px auto;
+    border: 2px solid rgb(164, 51, 51);
+    padding: 10px;
+    width: 600px;
+}
+#parent227_2 > div {
+    padding: 10px;
+    border: 1px solid violet;
+    background-color: rgb(164, 51, 51);
+    text-align: center;
+}
+
+#parent228_1 {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 200px);
+    border: 2px solid orangered;
+    padding: 10px;
+    width: 600px;
+}
+#parent228_1 > div {
+    padding: 10px;
+    border: 1px solid olive;
+    background-color: khaki;
+    text-align: center;
+}
