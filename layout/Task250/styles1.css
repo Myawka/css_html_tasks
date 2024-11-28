@@ -1,0 +1,121 @@
+body, p, h1, h2, ul {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #EBEBEB;
+	font-family: sans-serif;
+}
+
+.wrapper {
+	width: 890px;
+	margin: 0 auto;
+	display: flex;
+}
+
+.price {
+	margin-top: 10px;
+	width: 500px;
+}
+
+.price td, .price th {
+	border: 1px solid #000000;
+	text-align: center;
+}
+
+.price th {
+	background-color: #EBEBEB;
+}
+
+.picture {
+	width: 490;
+	height: 375px;
+}
+
+header {
+	background-color: #F8AA03;
+}
+
+#menu {
+	min-height: 50px;
+	align-items: center;
+	display: flex;
+	margin-left: 20px;
+}
+
+#menu a:link, #menu a:visited {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+#menu a:hover, #menu a.active {
+	text-decoration: underline;
+}
+
+aside {
+	width: 360px;
+	background-color: #ffffff;
+	padding: 20px 20px 20px 10px;
+	box-sizing: border-box;
+}
+
+aside > div {
+	margin: 20px 20px 0 0;
+}
+
+aside h2 {
+	font-size: 17px;
+	margin-bottom: 10px;
+}
+
+aside p, aside li {
+	font-size: 16px;
+	text-align: justify;
+	margin-bottom: 10px;
+}
+
+aside ul {
+	list-style-type: none
+}
+
+main {
+	text-align: justify;
+	width: 530px;
+	background-color: #ffffff;
+	padding: 20px 10px 20px 20px;
+	box-sizing: border-box;
+}
+
+main h1 {
+	font-size: 21px;
+}
+
+main h2 {
+	font-size: 19px;
+	margin-top: 20px;
+}
+
+main p {
+	margin: 10px 0;
+}
+
+main img {
+	width: 500px;
+	height: 350px;
+	background-size: contain;
+}
+
+footer {
+	color: #ffffff;
+	display: flex;
+	min-height: 75px;
+	align-items: center;
+	justify-content: center;
+	background-color: #F8AA03;
+}
+
+nav a {
+	margin-right: 20px;
+	font-size: 18px;
+}
